@@ -1,7 +1,7 @@
 # Knapsack-problem
 
         There are three methods to solve the knapsack problem.  
-        The example is sample to help me understand the reinforcement learning and dynamic programming.
+        The example is a sample to help me understand the reinforcement learning and dynamic programming.
         
 **Question**:
 
@@ -24,6 +24,7 @@
 
 **Method**:
 
-        1. Reinforcement learning
+        1. Greedy algorithm
         2. Dynamic programming based on q value
         3. Dynamic programming based on v value
+        4. Reinforcement learning
