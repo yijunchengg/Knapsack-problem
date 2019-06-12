@@ -27,12 +27,12 @@
         1. Greedy algorithm
         2. Dynamic programming
         3. Reinforcement learning
----------------------------------------------------------------
+
 knapsack.ipynb includes 1. Greedy algorithm
                         2. Dynamic programming
                          2.1 Based on subproblem
                          2.2 Based on q table
----------------------------------------------------------------
+
 knapsack.py    includes 1. Reinforcement learning
                         2. Dynamic programming based on q table
                         3. Dynamic programming based on v table
